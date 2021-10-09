@@ -8,3 +8,9 @@ A repository that contains the project of Fantasic Four team.
   - ThS. Thái Bảo Trân
   - CN. Nguyễn Minh Nhựt
 ## Thông tin môn học
+| STT | Họ tên | MSSV | Github |
+| :----- | :---------- | :-------------- | :-------------- | 
+| 1      | Nguyễn Văn Lực | 19521811 | https://github.com/quandangminh2107 | 
+| 2      | Đặng Minh Quân | 19520867 |  | 
+| 3      | Lê Văn Anh Bim | 19521374 |  | 
+| 4      | Nguyễn Thị Thu Hà | 19521456 |  | 
