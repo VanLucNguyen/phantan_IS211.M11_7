@@ -12,5 +12,5 @@ A repository that contains the project of Fantasic Four team.
 | :----- | :---------- | :-------------- | :-------------- | 
 | 1      | Nguyễn Văn Lực | 19521811 |  | https://github.com/VanLucNguyen
 | 2      | Đặng Minh Quân | 19520867 | https://github.com/quandangminh2107 | 
-| 3      | Lê Văn Anh Bim | 19521374 |  | 
+| 3      | Lê Văn Anh Bim | 19521374 | https://github.com/leanhducuit | 
 | 4      | Nguyễn Thị Thu Hà | 19521456 |  | 
